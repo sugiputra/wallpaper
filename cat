@@ -1,0 +1,24 @@
+{
+MaterialWallpaper: [
+{
+cid: "99",
+category_name: "تست",
+category_image: "7684-2018-09-03.jpg"
+},
+{
+cid: "98",
+category_name: "Hero",
+category_image: "0931-2018-08-19.jpg"
+},
+{
+cid: "97",
+category_name: "Ferrari",
+category_image: "3435-2018-08-17.jpg"
+},
+{
+cid: "94",
+category_name: "Nika",
+category_image: "8159-2018-07-26.jpg"
+}
+]
+}
